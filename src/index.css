@@ -1,0 +1,53 @@
+body {
+	background-color:  #efefef;
+	padding: 1rem;
+}
+#root {
+  background-color: #000;
+  margin: 0 auto;
+  padding: 5px 0px;
+  width: 400px;
+  text-align: center;
+}
+h1 {
+	margin: 5px;
+	color: #f3ff8d;
+	font-family: monospace;
+	font-weight: 100;
+}
+
+textarea {
+	background-color: #000;
+	color: #f3ff8d;
+	width: 370px;
+	height: 210px;
+	resize: none;
+}
+.info {
+	margin: 5px 0 0;
+}
+.info textarea {
+	height: 100px;
+}
+
+.button-input-cont {
+	margin: 0 auto;
+	width: 370px;
+	border: 1px solid #cacaca;
+	background-color: #efefef;
+}
+.button {
+	margin: 1rem;
+	width: 144px;
+	height: 60px;
+	font-size: 19px;
+	cursor: pointer;
+	outline: none;
+	background-color: #ccc;
+	border: 1px solid #000;
+}
+
+.input-cont {
+	padding: 0.5rem;
+}
+
